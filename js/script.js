@@ -51,6 +51,7 @@ document.addEventListener('DOMContentLoaded', () => {
             item.remove();
         });
     };
+    
 
     const makeChanges = () => {
         genre.textContent = 'драма';
